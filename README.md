@@ -4,9 +4,9 @@
 Η προστιθέμενη αξία της εφαρμογής επικεντρώνεται στην οικονομική συνδρομή, δηλαδή ο χρήστης να μπορεί να έχει πρόσβαση χωρίς να χρειάζεται κάθε φόρα να πληρώνει ότι αγοράζει.
 
 ### Languages
-'Java Spring Boot'
-'React JS'
-'MySQL'
+`Java Spring Boot`
+`React JS`
+`MySQL`
 
 ![image](https://github.com/IGabrielIli/eBookStore/assets/77936947/69bf0de8-665d-45d6-9425-1f876d0a0705)
 
